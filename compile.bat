@@ -1,0 +1,1 @@
+nuitka --standalone --onefile --windows-icon-from-ico=aurora.ico --follow-imports --include-module=pypresence --include-module=mailtm --include-module=requests --include-module=licensing --include-module=aiohttp --include-module=colorama --include-module=rstr --include-module=asyncio --include-module=pypresence main.py

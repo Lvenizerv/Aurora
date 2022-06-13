@@ -1,0 +1,12 @@
+{
+    "_comment": "This is the Aurora config, you can set advanced parameters here.",
+    "discordRPC": true,
+    "use12HourClock": true,
+    "checkCookiesOnStart": false,
+    "captchaSettings": {
+        "service": "anticaptcha",
+        "apiKey": "",
+        "maxRetries": 30
+    },
+    "_": "Need help? Please reference docs.auroratools.shop"
+}

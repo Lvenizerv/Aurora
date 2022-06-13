@@ -1,0 +1,9 @@
+# This is the Aurora config, you can set advanced parameters here.
+checkCookiesOnStart: false
+captchaSettings:
+ service: "anticaptcha"
+ apiKey: ""
+ maxRetries: 30
+# Need help? Please reference docs.auroratools.shop
+
+# This is going to be the config for the go version
