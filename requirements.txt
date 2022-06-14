@@ -8,3 +8,6 @@ colorama
 rstr 
 asyncio
 zstandard
+soupsieve
+bs4
+click
